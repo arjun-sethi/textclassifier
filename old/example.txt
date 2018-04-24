@@ -1,0 +1,14 @@
+		can	could	may	might	must	will
+adventure	0.0	0.0	0.0	0.0	0.0	0.0	
+editorial	0.0	0.0	0.0	0.0	0.0	0.0	
+fiction	0.0	0.0	0.0	0.0	0.0	0.0	
+government	0.0	0.0	0.0	0.0	0.0	0.0	
+hobbies	0.0	0.0	0.0	0.0	0.0	0.0	
+humor	0.0	0.0	0.0	0.0	0.0	0.0	
+learned	0.0	0.0	0.0	0.0	0.0	0.0	
+mystery	0.0	0.0	0.0	0.0	0.0	0.0	
+news	0.0	0.0	0.0	0.0	0.0	0.0	
+religion	0.0	0.0	0.0	0.0	0.0	0.0	
+reviews	0.0	0.0	0.0	0.0	0.0	0.0	
+romance	0.0	0.0	0.0	0.0	0.0	0.0	
+science_fiction	0.0	0.0	0.0	0.0	0.0	0.0	
